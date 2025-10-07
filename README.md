@@ -1,3 +1,3 @@
 Numerical Methods
 =================
-Optimization, ODE, PDE.
+Optimization, ODE, PDE, SDE.
