@@ -9,6 +9,9 @@ Optimization problems are common in many quantitative fields, from Physics to Fi
 * [Pyomo](https://www.pyomo.org/)
 * [AMPL Python API](https://amplpy.ampl.com/en/latest/index.html)
 
+## C++ optimization packages
+* [Ceres Solver](http://ceres-solver.org/index.html)
+
 ## References
 * [Boyd, Vandenberghe - Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
-* [Postek et al. - Hands-On Mathematical Optimization with Python](https://mobook.github.io/MO-book/intro.html) 
+* [Postek et al. - Hands-On Mathematical Optimization with Python](https://mobook.github.io/MO-book/intro.html)
