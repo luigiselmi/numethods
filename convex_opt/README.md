@@ -7,7 +7,8 @@ Optimization problems are common in many quantitative fields, from Physics to Fi
 * [CVXPY](https://www.cvxpy.org/index.html)
 * [Mosek](https://www.mosek.com/), commercial optimizer
 * [Pyomo](https://www.pyomo.org/)
-* [AMPL Python API](https://amplpy.ampl.com/en/latest/index.html)
+* [AMPL Python API](https://amplpy.ampl.com/en/latest/index.html)  
+* [Gekko Optimization Suite](https://gekko.readthedocs.io/en/latest/)
 
 ## C++ optimization packages
 * [Ceres Solver](http://ceres-solver.org/index.html)
