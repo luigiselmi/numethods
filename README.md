@@ -15,3 +15,7 @@ Optimization, ODE, PDE, SDE, MCMC.
 * [plotly](https://plotly.com/)
 * [seaborn](http://seaborn.pydata.org/), statistical data visualization
 * [bokeh](https://docs.bokeh.org/en/latest/), interactive visualizations
+
+## Scientific computing
+* [Elasticipy](https://elasticipy.readthedocs.io/en/latest/index.html#), elasticity, stress and strain tensors
+* [Berkeley Lab - The Materials Project](https://next-gen.materialsproject.org/), compute the properties of all inorganic materials
