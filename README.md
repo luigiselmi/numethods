@@ -15,6 +15,10 @@ Optimization, ODE, PDE, SDE, MCMC.
 * [plotly](https://plotly.com/)
 * [seaborn](http://seaborn.pydata.org/), statistical data visualization
 * [bokeh](https://docs.bokeh.org/en/latest/), interactive visualizations
+* [PyVista](https://docs.pyvista.org/), 3D plotting and mesh analysis
+* [Open3D](https://www.open3d.org/docs/release/index.html), A Modern Library for 3D Data Processing
+* [Gmsh](https://gmsh.info/), a three-dimensional finite element mesh generator
+* [ParaView](https://www.paraview.org/), post-processing visualization engine
 
 ## Scientific computing
 * [Elasticipy](https://elasticipy.readthedocs.io/en/latest/index.html#), elasticity, stress and strain tensors
