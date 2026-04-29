@@ -1,5 +1,5 @@
-Numerical Python
-================
+Numerical Methods with Python
+=============================
 Numerical methods using Python. Examples from the book by Johansson "Numerical Python: Scientific Computing and Data Science Applications with NumPy, SciPy and Matplotlib, 3rd Edition"
 
 * [Ch.3 - Symbolic Computing](symbolic_computation.ipynb)
