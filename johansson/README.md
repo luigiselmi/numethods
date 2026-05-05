@@ -7,6 +7,7 @@ Numerical methods using Python. Examples from the book by Johansson "Numerical P
 * [Ch.4 - Plotting and Visualization](plotting_and_visualization.ipynb)
 * [Ch.5 - Equation Solving](equation_solving.ipynb)
 * [Ch.6 - Optimization](optimization.ipynb)
+* [Ch.7 - Interpolation](interpolation.ipynb)
 
 ## References
 * Lay - Linear Algebra and its Applications, 4th Edition
