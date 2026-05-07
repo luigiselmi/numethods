@@ -6,6 +6,7 @@ Optimization, ODE, PDE, SDE, MCMC.
 * [Markov Chain Monte Carlo](mcmc)
 * [Spherical Harmonics](spherical_harmonics.ipynb)
 * [Bessel's functions](bessel_functions.ipynb)
+* [Numerical Methods with Python](johansson)
 
 ## Visualization libraries
 * [VisPy](https://vispy.org/index.html)
