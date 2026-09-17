@@ -8,6 +8,11 @@ Optimization, ODE, PDE, SDE, MCMC.
 * [Bessel's functions](bessel_functions.ipynb)
 * [Numerical Methods with Python](johansson)
 
+## Open source software for scientific computing
+* [FEniCS](https://fenicsproject.org/), open-source computing platform for solving partial differential equations (PDEs) with the finite element method (FEM).
+* [The deal.II Finite Element Library](https://dealii.org/), a C++ software library supporting the creation of finite element codes
+* [MOOSE](https://mooseframework.inl.gov/), an open-source, parallel finite element framework
+
 ## Visualization libraries
 * [VisPy](https://vispy.org/index.html)
 * [Mayavi](https://docs.enthought.com/mayavi/mayavi/), 3D data visualization and plotting in Python
