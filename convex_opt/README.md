@@ -9,6 +9,7 @@ Optimization problems are common in many quantitative fields, from Physics to Fi
 * [Pyomo](https://www.pyomo.org/)
 * [AMPL Python API](https://amplpy.ampl.com/en/latest/index.html)  
 * [Gekko Optimization Suite](https://gekko.readthedocs.io/en/latest/)
+* [Optuna](https://optuna.org/), hyperparameters search optimization
 
 ## C++ optimization packages
 * [Ceres Solver](http://ceres-solver.org/index.html)
