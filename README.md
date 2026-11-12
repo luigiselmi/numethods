@@ -12,6 +12,7 @@ Optimization, ODE, PDE, SDE, MCMC.
 * [FEniCS](https://fenicsproject.org/), open-source computing platform for solving partial differential equations (PDEs) with the finite element method (FEM).
 * [The deal.II Finite Element Library](https://dealii.org/), a C++ software library supporting the creation of finite element codes
 * [MOOSE](https://mooseframework.inl.gov/), an open-source, parallel finite element framework
+* [Matrix Calculus](https://www.matrixcalculus.org/)
 
 ## Visualization libraries
 * [VisPy](https://vispy.org/index.html)
